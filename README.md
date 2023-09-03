@@ -1,3 +1,4 @@
 # Ninja-parte-1
 
-En este archivo se encuentra la primera parte del desafio ninija del coding dojo, logré implememtar que el ninja se moviera hacia arriba y tambien ponerle limites en los ejes horizontal y vertical entre los valores de 0 y500
+En este repositorio estare subiendo los desafio del ninja de coding dojo.
+La primera parte del desafio ninja consiste en lograr que se desplace hacia arrbia cuando se aprete la tecla correspondiente, ademas de eso hay que ponerle unos limites en el rango de 0 a 500 px en los valores del eje horizontal y vertical que el ninja no puede pasar
