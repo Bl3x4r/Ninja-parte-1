@@ -1,4 +1,4 @@
-# Ninja-parte-1
+# NinjaGame
 
 En este repositorio estare subiendo los desafio del ninja de coding dojo.
 La primera parte del desafio ninja consiste en lograr que se desplace hacia arrbia cuando se aprete la tecla correspondiente, ademas de eso hay que ponerle unos limites en el rango de 0 a 500 px en los valores del eje horizontal y vertical que el ninja no puede pasar.
